@@ -1,5 +1,6 @@
 * {
     font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(255, 162, 0);
 }
 
 .go-back {
@@ -12,6 +13,11 @@
 }
 
 #firstimg {
-    height: auto;
+    height: 150;
     width: 200px;
+}
+
+.summer_images {
+    height: auto;
+    width: 351px;
 }
